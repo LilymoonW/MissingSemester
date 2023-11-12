@@ -1,0 +1,50 @@
+1. Lamp
+2. Sofa
+3. Table
+4. Chair
+5. Television
+6. Refrigerator
+7. Microwave
+8. Toaster
+9. Blender
+10. Coffee Maker
+11. Bed
+12. Dresser
+13. Mirror
+14. Clock
+15. Rug
+16. Bookshelf
+17. Vase
+18. Curtain
+19. Dishwasher
+20. Washing Machine
+21. Dryer
+22. Iron
+23. Vacuum Cleaner
+24. Stove
+25. Oven
+26. Kitchen Sink
+27. Trash Can
+28. Air Conditioner
+29. Heater
+30. Ceiling Fan
+31. Computer
+32. Keyboard
+33. Mouse
+34. Desk
+35. Telephone
+36. Alarm Clock
+37. Refrigerator Magnet
+38. Dinnerware
+39. Silverware
+40. Can Opener
+41. Pot
+42. Pan
+43. Sofa Bed
+44. Wardrobe
+45. Shower Curtain
+46. Tissue Box
+47. Wall Art
+48. Coat Rack
+49. Coffee Table
+50. Trash Bin
